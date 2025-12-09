@@ -4,3 +4,7 @@ Eggs
 Bacon
 Apple
 Chocolate
+vimto
+sausages
+cheese
+mince pies
